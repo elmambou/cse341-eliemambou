@@ -12,17 +12,18 @@
     "type": "git",
     "url": "git+https://github.com/elmambou/cse341-eliemambou.git"
   },
-  "author": "Elie Mambou",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/elmambou/cse341-eliemambou/issues"
-  },
-  "homepage": "https://github.com/elmambou/cse341-eliemambou#readme",
-  "dependencies": {
-    "express": "^4.18.2"
-  },
-  "devDependencies": {
-    "nodemon": "^3.0.1"
-  }
-}
+  
 
+"author": "Elie Mambou",
+"license": "ISC",
+"bugs": {
+  "url": "https://github.com/elmambou/cse341-eliemambou/issues"
+},
+"homepage": "https://github.com/elmambou/cse341-eliemambou#readme",
+"dependencies": {
+  "express": "^4.18.2"
+},
+"devDependencies": {
+  "nodemon": "^3.0.1"
+}
+}
