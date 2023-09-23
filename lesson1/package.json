@@ -1,5 +1,5 @@
 {
-  "name": "cse341-eliemambou",
+  "name": "cse341-elie mambou",
   "version": "1.0.0",
   "description": "lesson 02 personal assignment",
   "main": "app.js",
@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/elmambou/cse341-eliemambou.git"
   },
-  "author": "Elie Mambou",
+  "author": "elie mambou",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/elmambou/cse341-eliemambou/issues"
